@@ -1,6 +1,16 @@
 # HostUnreachable
 Super powerful DDoS tool, use At your own risk ⚠️ 
 
+
+# Getting started
+```
+python3 Hostunrechable.py
+```
+Update code:
+```
+./update.sh
+```
+
 # Notice
 This is for educational purposes only! Do not attack a website without owner permission.
 I am not responsible for ANY damage you have done, Please take this seriously.
