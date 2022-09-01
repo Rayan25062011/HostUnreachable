@@ -6,7 +6,7 @@ Super powerful DDoS tool, use At your own risk ⚠️
 ```
 python3 Hostunrechable.py
 ```
-Update code:
+Update project:
 ```
 ./update.sh
 ```
